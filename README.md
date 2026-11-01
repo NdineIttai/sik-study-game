@@ -1,1 +1,1 @@
-# sik-study-game
+# Sik-Study-Game
